@@ -1,18 +1,25 @@
-## Getting Started
+# Anime Recommendation App
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📌 Overview
+This Java-based Anime Recommendation App helps users discover anime based on their preferred genres, popularity, and ratings. It uses a survey to suggest anime titles (both series and movies) from a curated database.
 
-## Folder Structure
+## ✨ Features
+✅ **Genre-Based Filtering** – Choose from 10+ genres (Action, Comedy, Horror, Sports, etc.)  
+✅ **Movie/Show Separation** – Get recommendations specifically for movies or TV series  
+✅ **Popular & Highly-Rated Picks** – Filter by mainstream hits or hidden gems  
+✅ **Multi-Genre Support** – Get suggestions that blend genres (e.g., Action + Fantasy)  
+✅ **Detailed Descriptions** – Each recommendation includes a synopsis  
 
-The workspace contains two folders by default, where:
+## 🚀 How to Run the App
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Prerequisites
+- Java JDK 17+  
+- JavaFx
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### Run Instructions
+1. Clone or download the project
+2. Compile and run `App.java` in your IDE or terminal
+3. Make sure JavaFX libraries are configured properly in your environment
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+   Video
+   https://youtu.be/GmNqddF4fB0
